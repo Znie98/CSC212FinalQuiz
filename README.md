@@ -21,7 +21,7 @@ Abstract:
 The user can choose which set of vocabulary to learn and how many words they would like to learn this time. 
 (They can also choose if they want to learn in order or randomly. Or choose from small lists)
 The Learning Process: 
-A word will be presented on the screen and the user will be prompted to answer if they know the word’s meaning or not. 
+	A word will be presented on the screen and the user will be prompted to answer if they know the word’s meaning or not. 
 Regardless of their response, the meaning of the word will be printed on the screen. 
 If the user indicated they don’t know the word, the word will be stored in memory as a new word. Otherwise, the word will be classified as a known word. 
 
